@@ -12,7 +12,7 @@ This project was inspired by an assignment for the Spring 2018 Programming Langu
 | -         | Decrement the value under data pointer   |
 | (         | If the value at data pointer is zero, then jump to matching ) and execute following command. Otherwise, move to next instruction.  |
 | )         | If the value at data pointer is nonzero, then jump back to matching ( and execute the following command. Otherwise move to next instruction. |
-| I         | Take input and place at data pointer location |
+| i         | Take input and place at data pointer location |
 
 ## Requirements
 This requires `Python 3` and the `argparse` package.

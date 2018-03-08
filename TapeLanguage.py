@@ -54,7 +54,7 @@ class TapeInterpreter:
                    '-':self._oper_minus,
                    'l':self._oper_left,
                    'r':self._oper_right,
-                   'I':self._oper_input,
+                   'i':self._oper_input,
                    'p':self._oper_print,
                    "(":self._oper_lparen,
                    ")":self._oper_rparen
