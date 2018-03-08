@@ -15,7 +15,7 @@ This project was inspired by an assignment for the Spring 2018 Programming Langu
 | I         | Take input and place at data pointer location |
 
 ## Requirements
-This requires Python 3 and the argparse package.
+This requires `Python 3` and the `argparse` package.
 
 ## Example programs
-Some simple examples have been provided in examples. Notice that the first line is the input for the program to run (what is accessed with the I command) and the rest of the code is on the following line. 
+Some simple examples have been provided in [examples/](./examples/). Notice that the first line is the input for the program to run (what is accessed with the I command) and the rest of the code is on the following line. 
